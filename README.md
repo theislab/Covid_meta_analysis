@@ -4,7 +4,7 @@ Analysis notebooks for the Covid-19 meta analysis that accompanies the Nature Me
 ## Folder structure
 
 ### ACE2-TMPRSS2 coexpression:
-Analysis and plotting scripts as jupyter notebooks to reproduce Figures 1ab (and Extended Data Figure 1,2)  and 1cd (and Extended Data Figure 4)
+Analysis and plotting scripts as jupyter notebooks to reproduce Figures 1ab (and Extended Data Figure 1,2)  and 1cd (and Extended Data Figure 5)
 
 ### Other proteases:
 Analysis and plotting scripts as jupyter notebooks to reproduce Figures 2, Supplementary Figure 3, Extended Data Figure 6.
