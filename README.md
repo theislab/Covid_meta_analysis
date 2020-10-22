@@ -7,7 +7,7 @@ Analysis notebooks for the Covid-19 meta analysis that accompanies the Nature Me
 Analysis and plotting scripts as jupyter notebooks to reproduce Figures 1cd, Extended Data Figure 4.
 
 ### Other proteases:
-Analysis and plotting scripts as jupyter notebooks to reproduce Figures 5, Extended Data Figure 10.
+Analysis and plotting scripts as jupyter notebooks to reproduce Figures 2, Extended Data Figure 10.
 
 ### Lung meta analysis:
 Analysis and plotting scripts as jupyter notebooks to reproduce Figures 3d, Extended Data Figure 9, and Supplementary Figures 4-10.
