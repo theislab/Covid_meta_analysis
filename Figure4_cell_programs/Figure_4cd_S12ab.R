@@ -5,12 +5,12 @@ library(lme4)
 library(car)
 library(Hmisc)
 
-source("~/code/plot/network.r")
-  
-mast_gut=readRDS("/broad/hptmp/csmillie/gut.ACE2_TMPRSS2.rds")
-mast_lca=readRDS("/broad/hptmp/csmillie/lca.ACE2_TMPRSS2.rds")
-mast_lung=readRDS("/broad/hptmp/csmillie/lung.ACE2_TMPRSS2.rds")
-mast_nose=readRDS("/broad/hptmp/csmillie/nose.ACE2_TMPRSS2.rds")
+source("~/network.r") ## to be added by Chris
+source("~/colors.r")  
+mast_gut=readRDS("gut.ACE2_TMPRSS2.rds")
+mast_lca=readRDS("lca.ACE2_TMPRSS2.rds")
+mast_lung=readRDS("lung.ACE2_TMPRSS2.rds")
+mast_nose=readRDS("nose.ACE2_TMPRSS2.rds")
 
 ##### Figure 4c #####
 

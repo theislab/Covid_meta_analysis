@@ -1,3 +1,9 @@
+mast_gut=readRDS("gut.ACE2_TMPRSS2.rds")
+mast_lca=readRDS("lca.ACE2_TMPRSS2.rds")
+mast_lung=readRDS("lung.ACE2_TMPRSS2.rds")
+mast_nose=readRDS("nose.ACE2_TMPRSS2.rds")
+
+
 ##### Generate table for plotting ########
 genelist=NULL
 Tissue="Lung"
